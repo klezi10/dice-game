@@ -60,3 +60,8 @@ button {
 .active {
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
 }
+
+#player1Dice,
+#player2Dice {
+  font-family: Arial, Helvetica, sans-serif;
+}
