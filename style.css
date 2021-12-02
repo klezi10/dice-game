@@ -65,3 +65,7 @@ button {
 #player2Dice {
   font-family: Arial, Helvetica, sans-serif;
 }
+
+#rollBtn {
+  margin: 0 auto;
+}
